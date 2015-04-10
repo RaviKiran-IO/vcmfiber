@@ -398,11 +398,11 @@ input[type="button"].alt:active, input[type="submit"].alt:active, input[type="re
   position: relative;
   background: #fff;
   text-align: center;
+  background: url('../images/banner.jpg');
+  background-size: cover;
 }
 #header-wrapper p {
   text-align: center;
-  background: url('../images/banner.jpg');
-  background-size: cover;
 }
 #banner-wrapper {
   position: relative;
