@@ -233,7 +233,7 @@ mail($my_email,$subject,$message,$headers);
 <center>
 <b>Thank you <?php if(isset($_REQUEST['name'])){print stripslashes($_REQUEST['name']);} ?></b>
 <br>Your message has been sent
-<p><a href="<?php print $continue; ?>">Click here to continue</a></p>
+<p><a href="index.html">Click here to continue</a></p>
 <p><b>FormToEmail</b></p>
 </center>
 </div>
