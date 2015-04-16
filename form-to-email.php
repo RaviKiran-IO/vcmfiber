@@ -223,7 +223,7 @@ mail($my_email,$subject,$message,$headers);
 <html>
 
 <head>
-<title>Form To Email PHP script from FormToEmail.com</title>
+<title>VOCOM FUJIKURA FIBERHOME</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 </head>
 
@@ -234,7 +234,7 @@ mail($my_email,$subject,$message,$headers);
 <b>Thank you <?php if(isset($_REQUEST['name'])){print stripslashes($_REQUEST['name']);} ?></b>
 <br>Your message has been sent
 <p><a href="index.html">Click here to continue</a></p>
-<p><b>FormToEmail</b></p>
+<p><b>fiber@vocom.com</b></p>
 </center>
 </div>
 
